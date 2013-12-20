@@ -1609,6 +1609,39 @@
         "online radio",
         "internet radio"
       ]
+    },
+	{
+      "name": "Angular Music Database",
+      "thumb": "music-db/thumb.png",
+      "desc": "Angular Music Database is a demo showcasing CRUD.Create,update and delete artists,albums,and tracks.",
+      "url": "http://rest.kabasakalis.tk/music_db/",
+	  "src": "https://github.com/drumaddict/angular-music-db",
+      "submitter": "drumaddict",
+      "submissionDate": "2013-12-20",
+      "tags": [
+        "Demo",
+        "CRUD",
+        "Typescript","Yii","PHP","mySQL","Animations","Restangular","REST",
+		"jQuery",
+		"Open Source",
+        "Tests Included"
+      ]
+    },
+	{
+      "name": "Gallery Manager",
+      "thumb": "gallery/thumb.png",
+      "desc": "Gallery Manager is a demo showcasing CRUD.Create,update and delete pictures and collections.",
+      "url": "http://kabasakalis.tk/ng-yii/#/",
+	  "src": "https://github.com/drumaddict/angular-yii",
+      "submitter": "drumaddict",
+      "submissionDate": "2013-12-20",
+      "tags": [
+        "Demo",
+        "CRUD",
+        "Yii","PHP","mySQL","Animations","REST","fancybox","file API",
+		"jQuery",
+		"Open Source"
+      ]
     }
   ]
 }
